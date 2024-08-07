@@ -18,7 +18,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: https://zonan219.github.io/social-links-profile-main/
+- Live Site URL:"https://zonan219.github.io/social-links-profile-main/"
 
 
 
@@ -28,6 +28,6 @@ Users should be able to:
 - CSS custom properties
 
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/zonan219
-- Twitter/X - https://x.com/Bharatraj_Naik
+- Frontend Mentor - "https://www.frontendmentor.io/profile/zonan219"
+- Twitter/X -" https://x.com/Bharatraj_Naik"
 
