@@ -1,0 +1,50 @@
+@font-face {
+    font-family:Inter;
+    src: url(assets/fonts/Inter-VariableFont_slnt,wght.ttf);
+}
+body{
+    background-color:black;
+    font-family:Inter;
+    font-size: 24px;
+    color:white;
+    
+}
+.avatar{
+    object-fit: cover;
+    border-radius:50% ;
+    
+    
+}
+h3{
+    color:hsl(75, 94%, 57%);
+}
+.container{
+    text-align: center;
+    background-color: hsl(0, 0%, 8%);
+    width: fit-content;
+    padding:30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.button1{
+    font-size: 24px;
+    width: 400px;
+    height:50px;
+    margin: 10px;
+    padding: auto;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(0, 0%, 12%);
+    color: white;
+    
+    
+}
+.button1:hover{
+        background-color: hsl(75, 94%, 57%);
+        color: black;
+}
+.attribution{
+    font-size: 18px;
+    text-align: center;
+}
