@@ -18,7 +18,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL:"https://zonan219.github.io/social-links-profile-main/"
+- Live Site URL:"https://bharatrajnaik.github.io/social-links-profile-main/"
 
 
 
